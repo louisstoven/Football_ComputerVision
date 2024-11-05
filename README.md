@@ -1,7 +1,7 @@
 # Football Analysis System with Computer Vision
 
 ## Overview
-This repository contains a Football Analysis System developed using machine learning, computer vision, and deep learning techniques. The project utilizes YOLO (You Only Look Once), a state-of-the-art object detection model, to detect players, referees, and footballs during matches. It also implements tracking algorithms to follow these objects across frames and enhance the analysis.
+This repository contains a Football Analysis System developed using machine learning, computer vision, and deep learning techniques. The project utilizes YOLO, a state-of-the-art object detection model, to detect players, referees, and footballs during matches. It also implements tracking algorithms to follow these objects across frames and enhance the analysis.
 
 The system includes custom training of an object detector to improve detection accuracy, pixel segmentation using KMeans to assign players to teams based on their shirt colors, and optical flow methods to measure camera movement. By applying perspective transformations, the system accurately quantifies player movements in meters, enabling the calculation of speed and distance covered during the game.
 
