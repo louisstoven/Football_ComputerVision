@@ -29,7 +29,7 @@ NumPy: For numerical operations and data manipulation.
 Matplotlib: For visualizing analysis results.
 
 ## Datasets
-Kaggle Dataset (Note: Video links were removed from Kaggle)
+Kaggle Dataset
 Alternative Video Link
 Roboflow Football Dataset
 
