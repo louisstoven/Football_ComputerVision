@@ -18,7 +18,7 @@ Measure player movement accurately using optical flow and perspective transforma
 Calculate players' speed and distance covered on the field.
 
 ## Learning Resources
-YouTube Tutorial: Football Analysis System Tutorial - This video provided essential concepts and techniques for building the football analysis system.
+YouTube Tutorial: Football Analysis System Tutorial - This video provided essential concepts and techniques for building the football analysis system. (https://www.youtube.com/watch?app=desktop&v=neBZ6huolkg)
 
 ## Technologies Used
 YOLOv8: For real-time object detection of players, referees, and footballs.
